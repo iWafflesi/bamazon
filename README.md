@@ -1,10 +1,10 @@
 # bamazon
 
-<h3>Overview<h3/>
-<p>This is a storefront "Amazon-like" app that uses MySQL operated through the terminal. The app will take orders from the user and remove stock from inventory as its purchased. <p/>
+##Overview
+This is a storefront "Amazon-like" app that uses MySQL operated through the terminal. The app will take orders from the user and remove stock from inventory as its purchased.
 
-<h3>Customer View<h3/>
-<p>Customer view is run from bamazonCustomer.js which starts off by displaying all id's, products, department, pricing, and QTY in stock. The customer is then promted to select an item. After that there is a prompt of how many the customer would like to buy. If there is enough in stock then the order will complete, shipping the items with a total amount spent. If the requested amount is higher than whats available then the user will be shown that there isn't enough in stock. <p/>
+##Customer View
+Customer view is run from bamazonCustomer.js which starts off by displaying all id's, products, department, pricing, and QTY in stock. The customer is then promted to select an item. After that there is a prompt of how many the customer would like to buy. If there is enough in stock then the order will complete, shipping the items with a total amount spent. If the requested amount is higher than whats available then the user will be shown that there isn't enough in stock.
 
-<h3>Technologies Utilized<h3/>
-<p>MySql and node.js<p/>
+##Technologies Utilized
+<p>MySql and node.js
